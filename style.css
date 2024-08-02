@@ -1,0 +1,13 @@
+.header{
+    background: red;
+    padding: 15px 10px;
+}
+.logo > img{
+    width: 70px;
+} 
+.menu >ul>li >a{
+color: antiquewhite;
+}
+.hero >h1 {
+   font-size: 70px;
+}
